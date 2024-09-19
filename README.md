@@ -7,5 +7,5 @@
 - 😄 Pronouns: 阿肋 ALEI
 - MyWeb:[Profile](http://183.129.161.21:5099/)
 
-  ![风景图](https://static.jyshare.com/images/runoob-logo.png)
+  ![Wechat](http://183.129.161.21:5099/zyl/wechat.jpg)
 
