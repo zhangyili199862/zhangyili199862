@@ -7,5 +7,5 @@
 - 😄 Pronouns: 阿肋 ALEI
 - MyWeb:[Profile](http://183.129.161.21:5099/)
 - Wechat:加好友请注明来意
-  ![Wechat](http://183.129.161.21:5099/zyl/wechat.jpg)
+<img src="http://183.129.161.21:5099/zyl/wechat.jpg" width="58" height="56"/>
 
